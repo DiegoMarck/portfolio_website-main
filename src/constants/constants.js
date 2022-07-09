@@ -28,11 +28,11 @@ export const projects = [
   },
   {
     title: 'Recettes du Monde',
-    description: "This is a code repository for learning how to do a website in Drupal. Drupal is a CMS witch includs php, symfony, twig languages",
+    description: "This is a website about recipes all over the word, to learn how doing a Drupal website. I bought it on Udemy. Drupal is a CMS witch includes php, Symfony, twig languages",
     image: '/images/rdm2.png',
     tags: ['Drupal', 'PHP', 'Symfony'],
     source: 'https://google.com',
-    visit: 'https://google.com',
+    visit: 'https://github.com/DiegoMarck/Recettes-du-monde',
     id: 3,
   },
 ];
