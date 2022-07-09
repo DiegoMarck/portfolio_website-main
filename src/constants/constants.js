@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Climbing project',
     description: "Using Symfony, SQL. You can search on a map for all the different climbing sites in France, find tips and training exercises for climbing as well as news from the best current climbers.",
-      image: '/images/1.png',
+      image: '/images/imgEscal.png',
       tags: ['Symfony', 'SQL', 'Bootstrap', 'jQuery'],
     source: 'https://google.com',
     visit: 'https://github.com/DiegoMarck/ProjetEscaladeNext',
@@ -27,10 +27,10 @@ export const projects = [
     id: 2,
   },
   {
-    title: 'Unichat',
-    description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
-    image: '/images/4.jpg',
-    tags: ['React', 'ChatEngine', 'Firebase'],
+    title: 'Recettes du Monde',
+    description: "This is a code repository for learning how to do a website in Drupal. Drupal is a CMS witch includs php, symfony, twig languages",
+    image: '/images/rdm2.png',
+    tags: ['Drupal', 'PHP', 'Symfony'],
     source: 'https://google.com',
     visit: 'https://google.com',
     id: 3,
