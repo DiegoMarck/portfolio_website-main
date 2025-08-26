@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Climbing project',
     description: "Using Symfony, SQL. You can search on a map for all the different climbing sites in France, find tips and training exercises for climbing as well as news from the best current climbers.",
-      image: '/images/imgEscal.jpeg',
+      image: '/images/imgEscal.png',
       tags: ['Symfony', 'SQL', 'Bootstrap', 'jQuery'],
     source: 'https://sediriger.com',
     visit: 'https://github.com/DiegoMarck/ProjetEscaladeNext',
@@ -11,7 +11,7 @@ export const projects = [
   {
     title: 'Vesco',
     description:"This course from Udemy is about Building a Modern Responsive Website with HTML5, CSS3, Bootstrap, and some jQuery. In this course, you will learn how to Build a Modern Looking Responsive Website with modern web development technologies like HTML5, CSS3, Bootstrap, and some jQuery from scratch.",
-    image: '/images/vesco.jpeg',
+    image: '/images/vesco.png',
     tags: ['Bootstrap', 'jQuery'],
     source: 'https://vesco.sediriger.com/',
     visit: 'https://github.com/DiegoMarck/Vesco',
@@ -20,7 +20,7 @@ export const projects = [
   {
     title: 'Les Mondes Fantastiques',
     description: "This is a school project to learn javascript. You can find inside a slider menu, a mini gallery with a magnifying glass on the image, a top-panel and an accordeon.",
-      image: '/images/LesMondesFantastiques.jpeg',
+      image: '/images/LesMondesFantastiques.png',
       tags: ['CSS', 'Javascript'],
     source: 'https://lesmondesfanstastiques.sediriger.com',
     visit: 'https://github.com/DiegoMarck/Les-Mondes-Fantastiques',
